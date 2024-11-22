@@ -1,7 +1,7 @@
 # Age Prediction Based on Gut Microbiome Profiles
 
 ## Objective
-Develop machine learning models to predict an individual's age using gut microbiome profiles. This project identifies microbial community composition patterns linked to age and optimizes predictive performance.
+To develop machine learning models to predict an individual's age using gut microbiome profiles. This project identifies microbial community composition patterns linked to age and optimizes predictive performance.
 
 ## Tools and Libraries
 - **Data Manipulation**: `pandas`, `dplyr`
